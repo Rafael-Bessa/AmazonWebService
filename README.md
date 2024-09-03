@@ -20,3 +20,15 @@ A AWS oferece uma ampla gama de serviços de computação em nuvem que permitem 
 ***
 
 O primeiro passo para começar a usar os serviços da [AWS](https://aws.amazon.com/free/) é criar uma conta. Recomendo iniciar pelo Free Tier, que oferece uma variedade de serviços gratuitos por 12 meses, permitindo que você explore e aprenda sem custos iniciais.
+
+![aws1](https://github.com/user-attachments/assets/5677ea39-e0ad-48e6-a656-f72fc8fc3733)
+
+Após acessar sua conta, por padrão, a região configurada será **North Virginia (us-east-1)**. Você verá uma tela semelhante à imagem acima.
+
+> **Dica:** Se desejar alterar a região, você pode fazer isso clicando no nome da região no canto superior direito do console da AWS e selecionando a região desejada no menu suspenso.
+
+## Começando com o EC2 (Elastic COmpute Cloud)
+
+![aws2](https://github.com/user-attachments/assets/4ece4420-c115-4089-bcd5-500dac44c6f2)
+
+![aws3](https://github.com/user-attachments/assets/9f619e54-7f7d-47cc-8c05-27d9bbda7e86)
