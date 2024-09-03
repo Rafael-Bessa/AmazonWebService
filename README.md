@@ -16,3 +16,7 @@ A AWS oferece uma ampla gama de serviços de computação em nuvem que permitem 
 - **RDS**: Banco de dados relacional gerenciado.
 - **Lambda**: Execução de código sem provisionar ou gerenciar servidores.
 - **CloudFormation**: Gerenciamento de infraestrutura como código.
+
+***
+
+O primeiro passo para começar a usar os serviços da [AWS](https://aws.amazon.com/free/) é criar uma conta. Recomendo iniciar pelo Free Tier, que oferece uma variedade de serviços gratuitos por 12 meses, permitindo que você explore e aprenda sem custos iniciais.
