@@ -27,8 +27,19 @@ Após acessar sua conta, por padrão, a região configurada será **North Virgin
 
 > **Dica:** Se desejar alterar a região, você pode fazer isso clicando no nome da região no canto superior direito do console da AWS e selecionando a região desejada no menu suspenso.
 
-## Começando com o EC2 (Elastic COmpute Cloud)
+## Começando com o EC2 (Elastic Compute Cloud)
 
 ![aws2](https://github.com/user-attachments/assets/4ece4420-c115-4089-bcd5-500dac44c6f2)
 
 ![aws3](https://github.com/user-attachments/assets/9f619e54-7f7d-47cc-8c05-27d9bbda7e86)
+
+![aws4](https://github.com/user-attachments/assets/999fec34-0c49-4730-81e5-7f68bff697c7)
+
+![aws](https://github.com/user-attachments/assets/398bece2-0223-4b4d-9381-17df187d1bba)
+
+Uma parte importante da configuração é criar um par de chaves, composto por uma chave pública e uma chave privada, para garantir acesso seguro ao servidor. A chave pública ficará no servidor, enquanto a chave privada ficará na nossa máquina.
+
+![aws1](https://github.com/user-attachments/assets/e07c067a-be39-4272-9e0c-a039349f25ad)
+
+
+
