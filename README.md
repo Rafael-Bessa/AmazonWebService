@@ -54,6 +54,11 @@ Adicionando um pouco de segurança a chave.
 
 ![aws3](https://github.com/user-attachments/assets/6c9fffe5-6389-4ef0-bf6d-207c182d4331)
 
+![aws4](https://github.com/user-attachments/assets/91bfb9e1-019c-487c-b0d1-fdb9746574b7)
+
+![aws5](https://github.com/user-attachments/assets/c8ae102c-5f19-4bd9-ad0b-1e7308591a21)
+
+![aws6](https://github.com/user-attachments/assets/1bd2a6a4-fdfc-462d-b385-bcecf36f2e87)
 
 
 
