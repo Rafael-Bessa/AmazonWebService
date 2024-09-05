@@ -72,3 +72,8 @@ Instância EC2 conectada!
 
 ***
 
+Configurando Grupos de Segurança
+
+![aws10](https://github.com/user-attachments/assets/3c392426-1b7a-4ac2-9c24-fa6b233f5327)
+
+![aws11](https://github.com/user-attachments/assets/d1963c03-37f3-4899-99af-237ecc0c6eda)
