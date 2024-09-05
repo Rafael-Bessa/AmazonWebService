@@ -60,5 +60,15 @@ Adicionando um pouco de segurança a chave.
 
 ![aws6](https://github.com/user-attachments/assets/1bd2a6a4-fdfc-462d-b385-bcecf36f2e87)
 
+Clicando em cima do ID da Instância.
 
+![aws7](https://github.com/user-attachments/assets/682c00f2-890f-4565-aa5c-378f6747b467)
+
+![aws8](https://github.com/user-attachments/assets/a4afb48d-a806-4a04-9421-6069dc551ae7)
+
+![aws9](https://github.com/user-attachments/assets/aeaef773-aa2b-4064-9bff-359f544e4a47)
+
+Instância EC2 conectada!
+
+***
 
