@@ -77,3 +77,19 @@ Configurando Grupos de Segurança
 ![aws10](https://github.com/user-attachments/assets/3c392426-1b7a-4ac2-9c24-fa6b233f5327)
 
 ![aws11](https://github.com/user-attachments/assets/d1963c03-37f3-4899-99af-237ecc0c6eda)
+
+Ideal é alocar um IP para a instância, sempre que reiniciamos a instância o IP e o DNS mudam.
+
+![aws](https://github.com/user-attachments/assets/1a03f2df-3766-4d71-933b-720d59da7a17)
+
+![aws2](https://github.com/user-attachments/assets/fabb4bef-a33e-471f-8b2e-ee9bf608d0d0)
+
+Não mudar nenhuma configuração, apenas alocar.
+
+![aws3](https://github.com/user-attachments/assets/27cc0e3a-e739-406b-b7a8-677f13a0b2c2)
+
+![aws4](https://github.com/user-attachments/assets/196680d2-5ee7-4699-9044-9dcc0fd4f630)
+
+![aws6](https://github.com/user-attachments/assets/130e6850-3dd0-480f-8588-130e7635978f)
+
+
