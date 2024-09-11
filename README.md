@@ -92,4 +92,5 @@ Não mudar nenhuma configuração, apenas alocar.
 
 ![aws6](https://github.com/user-attachments/assets/130e6850-3dd0-480f-8588-130e7635978f)
 
+***
 
