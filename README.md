@@ -99,3 +99,6 @@ Não mudar nenhuma configuração, apenas alocar.
 Buckets funcionam como repositório na AWS.
 
 [Documentação](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html)
+
+Definir uma Policy e retirar restrições para o acesso público.
+
