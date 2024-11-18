@@ -94,3 +94,8 @@ Não mudar nenhuma configuração, apenas alocar.
 
 ***
 
+## Começando com o S3 (Simple Storage Service)
+
+Buckets funcionam como repositório na AWS.
+
+[Documentação](https://docs.aws.amazon.com/pt_br/AmazonS3/latest/userguide/Welcome.html)
